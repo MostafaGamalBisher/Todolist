@@ -35,4 +35,4 @@ while (True):
          print("good bye!")
          break
      else :
-          print("invaled command!")
+          print("Invaled Command!")
